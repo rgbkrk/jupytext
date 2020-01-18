@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="logo_txt.svg">
+  <title
+     id="title3713">Jupytext</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient6072"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop6070" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="136.58764"
+     inkscape:cy="51.058562"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Jupytext</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-197)">
+    <path
+       style="fill:#f37726;fill-opacity:1;stroke-width:0.98952848"
+       mask="none"
+       clip-path="none"
+       d="M 188.89844 1.1660156 A 189.90869 187.88837 0 0 0 11.90625 121.51172 A 207.08126 137.88581 0 0 1 190.91797 52.683594 A 207.08126 137.88581 0 0 1 362.60156 113.67578 A 189.90869 187.88837 0 0 0 188.89844 1.1660156 z M 14.179688 262.18359 A 189.90869 187.88837 0 0 0 188.89844 376.94336 A 189.90869 187.88837 0 0 0 360.00781 270.02344 A 207.08126 137.88581 0 0 1 190.91797 328.45508 A 207.08126 137.88581 0 0 1 14.179688 262.18359 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,197)"
+       id="path3726" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.96759415px;line-height:1.25;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1.14918983;stroke-opacity:1;"
+       x="8.2893438"
+       y="261.17538"
+       id="text4547"
+       transform="scale(1.0122232,0.9879244)"><tspan
+         sodipodi:role="line"
+         id="tspan4545"
+         x="8.2893438"
+         y="261.17538"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:1.14918983;stroke-opacity:1;">TXT</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4e4e4e;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="22.717907"
+       y="271.87668"
+       id="text6878"><tspan
+         sodipodi:role="line"
+         id="tspan6876"
+         x="22.717907"
+         y="271.87668"
+         style="stroke-width:0.26458332;fill:#4e4e4e;fill-opacity:1;">.md, .py, ...</tspan></text>
+  </g>
+</svg>
